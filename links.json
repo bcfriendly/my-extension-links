@@ -3,14 +3,291 @@
     "group": "Additional Services B2B",
     "links": [
       {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
-      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"}
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "roundtrip-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-b2b-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "ratehawk-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"},
+      {"title": "ostrovok-b2b-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
     ]
   },
   {
     "group": "Additional Services B2C",
     "links": [
       {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
-      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"}
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "zenhotels-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
+    ]
+  },
+  {
+    "group": "Apartment Moderation Specialist",
+    "links": [
+      {"title": "ostrovok-apartmoderation-team | Queue", "url": "https://crm.ostrovok.in/admin/tickets/queue/191/change/?_changelist_filters=q%3Dostrovok-apartmoderation-team"}
+    ]
+  },
+  {
+    "group": "Avia Support",
+    "links": [
+      {"title": "b2b-avia", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/78/change/?_changelist_filters=q%3Db2b-avia%2B"},
+      {"title": "ratehawk-avia", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/90/change/?_changelist_filters=q%3Dratehawk-avia"},
+      {"title": "airlines-avia", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/80/change/?_changelist_filters=q%3Dairlines-avia"},
+      {"title": "corp-ostrovok-avia | Change mail channel | Django site admin", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/91/change/?_changelist_filters=q%3Dcorp-ostrovok-avia"},
+      {"title": "roundtrip-air-support | Change mail channel | Django site admin", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/79/change/?_changelist_filters=q%3Droundtrip"}
+    ]
+  },
+  {
+    "group": "Car Rental Support",
+    "links": [
+      {"title": "b2b-ostrovok-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/73/change/?_changelist_filters=q%3Db2b-ostrovok-online-cars"},
+      {"title": "cars-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/74/change/?_changelist_filters=q%3Dcars-online-tpp"},
+      {"title": "roundtrip-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/77/change/?_changelist_filters=q%3Droundtrip-online-cars"},
+      {"title": "ratehawk-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/76/change/?_changelist_filters=q%3Dratehawk-online-cars"},
+      {"title": "corp-ostrovok-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/75/change/?_changelist_filters=q%3Dcorp-ostrovok-online-cars"},
+      {"title": "ratehawk-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/71/change/?_changelist_filters=q%3Dratehawk-railway-support"},
+      {"title": "b2b-ostrovok-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/70/change/?_changelist_filters=q%3Db2b-ostrovok-railway-support"},
+      {"title": "roundtrip-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/72/change/?_changelist_filters=q%3Droundtrip-railway-support"},
+      {"title": "railway-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/110/change/?_changelist_filters=q%3Drailway-online-tpp"}
+    ]
+  },
+  {
+    "group": "Direct invoice Specialist",
+    "links": [
+      {"title": "ostrovok-direct-sales | Queue", "url": "https://crm.ostrovok.in/admin/tickets/queue/96/change/?_changelist_filters=q%3Dostrovok-direct-sales"}
+    ]
+  },
+  {
+    "group": "FIT Manager",
+    "links": [
+      {"title": "ostrovok-partner-reservations-ru", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/57/change/?_changelist_filters=q%3Dostrovok-partner-reservati"},
+      {"title": "ostrovok-partner-groups-ru", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/81/change/?_changelist_filters=q%3Dostrovok-partner-groups-ru"},
+      {"title": "ostrovok-corp-fit-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/58/change/?_changelist_filters=q%3Dostrovok-corp-fit-reservations"},
+      {"title": "ostrovok-corp-group-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/83/change/?_changelist_filters=q%3Dostrovok-corp-group-reservations"},
+      {"title": "roundtrip-fit", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/84/change/?_changelist_filters=q%3Droundtrip-fit"},
+      {"title": "roundtrip-group", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/85/change/?_changelist_filters=q%3Droundtrip-group"},
+      {"title": "ratehawk-groups", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/82/change/?_changelist_filters=q%3Dratehawk-groups"},
+      {"title": "ratehawk-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/56/change/?_changelist_filters=q%3Dratehawk-reservations"}
+    ]
+  },
+  {
+    "group": "Front Office (Russia)",
+    "links": [
+      {"title": "corp-ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/5/change/?_changelist_filters=q%3Dcorp-ostrovok-support"},
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dstrovok-reservations"},
+      {"title": "ostrovok-b2b-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"},
+      {"title": "ostrovok-b2b-vip", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "ostrovok-b2b-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
+    ]
+  },
+  {
+    "group": "Front Office (International)",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "zenhotels-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"},
+      {"title": "ratehawk-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"},
+      {"title": "ratehawk2-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/43/change/?_changelist_filters=q%3Dratehawk2-b2b"}
+    ]
+  }
+  ,
+  {
+    "group": "Group Manager",
+    "links": [
+      {"title": "ostrovok-partner-reservations-ru", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/57/change/?_changelist_filters=q%3Dostrovok-partner-reservati"},
+      {"title": "ostrovok-partner-groups-ru", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/81/change/?_changelist_filters=q%3Dostrovok-partner-groups-ru"},
+      {"title": "ostrovok-corp-fit-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/58/change/?_changelist_filters=q%3Dostrovok-corp-fit-reservations"},
+      {"title": "ostrovok-corp-group-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/83/change/?_changelist_filters=q%3Dostrovok-corp-group-reservations"},
+      {"title": "roundtrip-fit", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/84/change/?_changelist_filters=q%3Droundtrip-fit"},
+      {"title": "roundtrip-group", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/85/change/?_changelist_filters=q%3Droundtrip-group"},
+      {"title": "ratehawk-groups", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/82/change/?_changelist_filters=q%3Dratehawk-groups"},
+      {"title": "ratehawk-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/56/change/?_changelist_filters=q%3Dratehawk-reservations"}
+    ]
+  },
+  {
+    "group": "Hotel Moderation and Onboarding Specialist",
+    "links": [
+      {"title": "ostrovok-moderation-team | Queue", "url": "https://crm.ostrovok.in/admin/tickets/queue/139/change/?_changelist_filters=q%3Dostrovok-moderation-team"}
+    ]
+  },
+  {
+    "group": "Hotel Precheck",
+    "links": [
+      {"title": "etg-precheck-client-b2c", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/10/change/?_changelist_filters=q%3Detg-precheck-client-b2c"},
+      {"title": "etg-precheck-client-zen", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/11/change/?_changelist_filters=q%3Detg-precheck-client-zen"},
+      {"title": "etg-precheck-hotel", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/14/change/?_changelist_filters=q%3Detg-precheck-hotel"},
+      {"title": "etg-precheck-roundtrip", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/19/change/?_changelist_filters=q%3Detg-precheck-roundtrip"},
+      {"title": "etg-precheck-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/20/change/?_changelist_filters=q%3Detg-precheck-supplier"},
+      {"title": "etg-precheck-corporate", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/12/change/?_changelist_filters=q%3Detg-precheck-corporate"},
+      {"title": "etg-precheck-hotel2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/16/change/?_changelist_filters=q%3Detg-precheck-hotel2"},
+      {"title": "etg-precheck-partner-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/17/change/?_changelist_filters=q%3Detg-precheck-partner-b2b"},
+      {"title": "etg-precheck-partner-rh", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/18/change/?_changelist_filters=q%3Detg-precheck-partner-rh"},
+      {"title": "Group precheck [multi_confirmation]", "url": "https://crm.ostrovok.in/admin/workboard/workboard/3/change/"}
+    ]
+  },
+  {
+    "group": "Hotels Support Back Office",
+    "links": [
+      {"title": "ostrovok-hotel-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/97/change/?_changelist_filters=q%3Dostrovok-hotel-support"},
+      {"title": "etg-hotel-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/102/change/?_changelist_filters=q%3Detg-hotel-support"},
+      {"title": "ostrovok-hotel-support-back", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/104/change/?_changelist_filters=q%3Dostrovok-hotel-support-back"},
+      {"title": "etg-hotel-support-back", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/103/change/?_changelist_filters=q%3Detg-hotel-support-back"}
+    ]
+  },
+  {
+    "group": "Hotels Support Front Office",
+    "links": [
+      {"title": "ostrovok-hotel-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/97/change/?_changelist_filters=q%3Dostrovok-hotel-support"},
+      {"title": "etg-hotel-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/102/change/?_changelist_filters=q%3Detg-hotel-support"}
+    ]
+  },
+  {
+    "group": "Incident Resolution B2B (General, Highest)",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "zenhotels-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dstrovok-reservations"},
+      {"title": "ostrovok-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/24/change/?_changelist_filters=q%3Dostrovok-b2b"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"},
+      {"title": "roundtrip-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"},
+      {"title": "ostrovok-b2b-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"},
+      {"title": "ostrovok-b2b-vip", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip"},
+      {"title": "ratehawk-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"}
+    ]
+  },
+  {
+    "group": "Incident Resolution B2C",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "zenhotels-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dstrovok-reservations"},
+      {"title": "ostrovok-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/24/change/?_changelist_filters=q%3Dostrovok-b2b"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "zenhotels-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
+    ]
+  },
+  {
+    "group": "Junior Additional Services",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "roundtrip-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-b2b-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"},
+      {"title": "ostrovok-b2b-vip", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "ratehawk-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"},
+      {"title": "ostrovok-b2b-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
+    ]
+  },
+  {
+    "group": "Local support",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "zenhotels-reservations", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-b2b-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"},
+      {"title": "ostrovok-b2b-vip", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip"},
+      {"title": "zenhotels-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"},
+      {"title": "ratehawk-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"},
+      {"title": "ostrovok-b2b-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"},
+      {"title": "ratehawk-b2b (1)", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"}
+    ]
+  }
+  ,
+  {
+    "group": "Modification B2B (B2A, RH)",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "roundtrip-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "ostrovok-b2b-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"},
+      {"title": "ostrovok-b2b-vip", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "ratehawk-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"},
+      {"title": "ostrovok-b2b-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
+    ]
+  },
+  {
+    "group": "Modification B2C",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"},
+      {"title": "ostrovok-support3", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support3"},
+      {"title": "ostrovok-support2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support2"},
+      {"title": "ostrovok-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"},
+      {"title": "etg-support-supplier2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"},
+      {"title": "zenhotels-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"},
+      {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"}
+    ]
+  },
+  {
+    "group": "Railway Support",
+    "links": [
+      {"title": "b2b-ostrovok-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/73/change/?_changelist_filters=q%3Db2b-ostrovok-online-cars"},
+      {"title": "cars-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/74/change/?_changelist_filters=q%3Dcars-online-tpp"},
+      {"title": "roundtrip-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/77/change/?_changelist_filters=q%3Droundtrip-online-cars"},
+      {"title": "ratehawk-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/76/change/?_changelist_filters=q%3Dratehawk-online-cars"},
+      {"title": "corp-ostrovok-online-cars", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/75/change/?_changelist_filters=q%3Dcorp-ostrovok-online-cars"},
+      {"title": "ratehawk-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/71/change/?_changelist_filters=q%3Dratehawk-railway-support"},
+      {"title": "b2b-ostrovok-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/70/change/?_changelist_filters=q%3Db2b-ostrovok-railway-support"},
+      {"title": "roundtrip-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/72/change/?_changelist_filters=q%3Droundtrip-railway-support"},
+      {"title": "railway-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/110/change/?_changelist_filters=q%3Drailway-online-tpp"}
+    ]
+  },
+  {
+    "group": "Reservations Specialist (No-Show Team)",
+    "links": [
+      {"title": "ostrovok-noshowteam | Queue", "url": "https://crm.ostrovok.in/admin/tickets/queue/39/change/?_changelist_filters=q%3Dostrovok-noshowteam"}
+    ]
+  },
+  {
+    "group": "Transfer Support",
+    "links": [
+      {"title": "transfer-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/69/change/?_changelist_filters=q%3Dtransfer-online-tpp"},
+      {"title": "b2b-ostrovok-transfer", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/63/change/?_changelist_filters=q%3Db2b-ostrovok-transfer"},
+      {"title": "ratehawk-transfer", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/67/change/?_changelist_filters=q%3Dratehawk-transfer"},
+      {"title": "roundtrip-transfers-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/68/change/?_changelist_filters=q%3Droundtrip-transfers-support"}
     ]
   }
 ]
