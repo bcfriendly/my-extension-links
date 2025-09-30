@@ -1,0 +1,16 @@
+[
+  {
+    "group": "Additional Services B2B",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"}
+    ]
+  },
+  {
+    "group": "Additional Services B2C",
+    "links": [
+      {"title": "etg-extraservice", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"},
+      {"title": "etg-extraservice2", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2"}
+    ]
+  }
+]
