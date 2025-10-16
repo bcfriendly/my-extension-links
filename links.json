@@ -288,8 +288,7 @@
       {"title": "b2b-ostrovok-transfer", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/63/change/?_changelist_filters=q%3Db2b-ostrovok-transfer"},
       {"title": "b2c-ostrovok-online-transfer", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/64/change/?_changelist_filters=q%3Db2c-ostrovok-online-transfer"},
       {"title": "b2c-transfer-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/65/change/?_changelist_filters=q%3Db2c-transfer-online-tpp"},
-      {"title": "ratehawk-transfer", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/67/change/?_changelist_filters=q%3Dratehawk-transfer"},
-      {"title": "roundtrip-transfers-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/68/change/?_changelist_filters=q%3Droundtrip-transfers-support"}
+      {"title": "ratehawk-transfer", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/67/change/?_changelist_filters=q%3Dratehawk-transfer"}
     ]
   }
 ]
