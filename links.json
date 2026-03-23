@@ -108,8 +108,7 @@
       {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"},
       {"title": "ratehawk2-b2b", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/43/change/?_changelist_filters=q%3Dratehawk2-b2b"}
     ]
-  }
-  ,
+  },
   {
     "group": "Group Manager",
     "links": [
@@ -229,8 +228,7 @@
       {"title": "etg-support-supplier", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"},
       {"title": "ratehawk-b2b (1)", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"}
     ]
-  }
-  ,
+  },
   {
     "group": "Modification B2B (B2A, RH)",
     "links": [
@@ -273,7 +271,7 @@
       {"title": "b2b-ostrovok-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/70/change/?_changelist_filters=q%3Db2b-ostrovok-railway-support"},
       {"title": "roundtrip-railway-support", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/72/change/?_changelist_filters=q%3Droundtrip-railway-support"},
       {"title": "railway-online-tpp", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/110/change/?_changelist_filters=q%3Drailway-online-tpp"},
-      {"title": "railway-tpp-ru", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/126/change/?_changelist_filters=q%3Drailway-tpp-ru"},
+      {"title": "railway-tpp-ru", "url": "https://crm.ostrovok.in/admin/mail/mailchannel/126/change/?_changelist_filters=q%3Drailway-tpp-ru"}
     ]
   },
   {
