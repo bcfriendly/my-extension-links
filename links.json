@@ -123,9 +123,9 @@
     ]
   },
   {
-    "group": "Hotel ration and Onboarding Specialist",
+    "group": "Hotel Moderation and Onboarding Specialist",
     "links": [
-      {"title": "ostrovok-moderation-team | mail", "url": "https://crm-api.etg.team/admin/mail/mailchannel/136/change/?_changelist_filters=q%3Dmoder"}
+      {"title": "ostrovok-ration-team | mail", "url": "https://crm-api.etg.team/admin/mail/mailchannel/136/change/?_changelist_filters=q%3Dr"}
     ]
   },
   {
