@@ -29,9 +29,9 @@
     ]
   },
   {
-    "group": "Apartment ration Specialist",
+    "group": "Apartment Moderation Specialist",
     "links": [
-      {"title": "ostrovok-apartration-team | Queue", "url": "https://crm-api.etg.team/admin/tickets/queue/191/change/?_changelist_filters=q%3Dostrovok-apartration-team"}
+      {"title": "ostrovok-apartration-team | mail", "url": "https://crm-api.etg.team/admin/mail/mailchannel/134/change/?_changelist_filters=q%3Dapart"}
     ]
   },
   {
@@ -61,7 +61,7 @@
   {
     "group": "Direct invoice Specialist",
     "links": [
-      {"title": "ostrovok-direct-sales | Queue", "url": "https://crm-api.etg.team/admin/tickets/queue/96/change/?_changelist_filters=q%3Dostrovok-direct-sales"}
+      {"title": "ostrovok-direct-sales | mail", "url": "https://crm-api.etg.team/admin/mail/mailchannel/133/change/?_changelist_filters=q%3Ddirect"}
     ]
   },
   {
@@ -277,7 +277,7 @@
   {
     "group": "Reservations Specialist (No-Show Team)",
     "links": [
-      {"title": "ostrovok-noshowteam | Queue", "url": "https://crm-api.etg.team/admin/tickets/queue/39/change/?_changelist_filters=q%3Dostrovok-noshowteam"}
+      {"title": "ostrovok-noshowteam | mail", "url": "https://crm-api.etg.team/admin/mail/mailchannel/138/change/?_changelist_filters=q%3Dnoshow"}
     ]
   },
   {
