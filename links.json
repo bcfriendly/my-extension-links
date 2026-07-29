@@ -1,54 +1,135 @@
 [
   {
-    "group": "Additional Services B2B",
+    "group": "Ad.Services Precheck + Junior A",
     "links": [
       {
+        "title": "ostrovok-b2b-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"
+      },
+      {
         "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%26o%3D-3"
+      },
+      {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru"
       },
       {
         "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%26o%3D-3"
       },
       {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ostrovok-b2b-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support"
       },
       {
-        "title": "roundtrip-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"
+        "title": "etg-support-supplier",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
       },
       {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ostrovok-b2b-support4",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/121/change/?_changelist_filters=q%3Dostrovok-b2b-support"
+      },
+      {
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
+        "title": "ratehawk2-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/124/change/?_changelist_filters=q%3Dratehawk2-b2b%26o%3D-3"
       },
       {
         "title": "ostrovok-support",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
       },
       {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support"
+      }
+    ]
+  },
+  {
+    "group": "Additional Services B2B",
+    "links": [
+      {
         "title": "ostrovok-b2b-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support%2B"
       },
       {
-        "title": "ostrovok-b2b-vip",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3D%2Bostrovok-b2b-vip"
+        "title": "etg-extraservice",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%2B"
       },
       {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru%2B"
       },
       {
-        "title": "ratehawk-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3D%2Bratehawk-b2b"
+        "title": "etg-extraservice2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%2B"
       },
       {
         "title": "ostrovok-b2b-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3%2B"
       },
       {
         "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%2B"
+      },
+      {
+        "title": "ostrovok-b2b-support4",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/121/change/?_changelist_filters=q%3Dostrovok-b2b-support4"
+      },
+      {
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%2B"
+      },
+      {
+        "title": "ostrovok-b2b-vip",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip%2B"
+      },
+      {
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%2B"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice2%2B"
+      },
+      {
+        "title": "ostrovok-reservations",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations%2B"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier%2B"
       }
     ]
   },
@@ -56,58 +137,73 @@
     "group": "Additional Services B2C",
     "links": [
       {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
         "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%2B"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice2"
       },
       {
         "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
-      },
-      {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice2%2B"
       },
       {
         "title": "ostrovok-support",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
       },
       {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
-      },
-      {
-        "title": "zenhotels-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"
-      },
-      {
         "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
-      }
-    ]
-  },
-  {
-    "group": "Apartment Moderation Specialist",
-    "links": [
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%2B"
+      },
       {
-        "title": "ostrovok-apartmoderation-team",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/134/change/?_changelist_filters=q%3Dostrovok-apart"
+        "title": "ostrovok-support2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2%2B"
+      },
+      {
+        "title": "ostrovok-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%2B"
+      },
+      {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier"
       }
     ]
   },
   {
-    "group": "Avia Support",
+    "group": "Air Support",
     "links": [
       {
         "title": "b2b-avia",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/78/change/?_changelist_filters=q%3D%2Bb2b-avia"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/78/change/?_changelist_filters=q%3Db2b-avia"
       },
       {
         "title": "ratehawk-avia",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/90/change/?_changelist_filters=q%3Dratehawk-avia"
+      },
+      {
+        "title": "avia-tpp-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/112/change/?_changelist_filters=q%3Davia-tpp-ru"
       },
       {
         "title": "airlines-avia",
@@ -120,27 +216,27 @@
       {
         "title": "roundtrip-air-support",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/79/change/?_changelist_filters=q%3Droundtrip-air-support"
-      }
-    ]
-  },
-  {
-    "group": "Air Support Specialist RU",
-    "links": [
-      {
-        "title": "b2b-avia",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/78/change/?_changelist_filters=q%3D%2Bb2b-avia"
-      },
-      {
-        "title": "corp-ostrovok-avia",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/91/change/?_changelist_filters=q%3Dcorp-ostrovok-avia"
-      },
-      {
-        "title": "avia-tpp-ru",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/112/change/?_changelist_filters=q%3Davia-tpp-ru"
       },
       {
         "title": "bridge-air-ru",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/181/change/?_changelist_filters=q%3Dbridge-air-ru"
+      },
+      {
+        "title": "bridge-air",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/180/change/?_changelist_filters=q%3Dbridge-air"
+      }
+    ]
+  },
+  {
+    "group": "Apartment Moderation Specialist",
+    "links": [
+      {
+        "title": "ostrovok-apartmoderation-team",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/134/change/?_changelist_filters=q%3Dostrovok-apartmoderation-team"
+      },
+      {
+        "title": "etg-apartmoderation-team",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/135/change/?_changelist_filters=q%3Detg-apartmoderation-team"
       }
     ]
   },
@@ -156,217 +252,325 @@
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/74/change/?_changelist_filters=q%3Dcars-online-tpp"
       },
       {
-        "title": "roundtrip-online-cars",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/77/change/?_changelist_filters=q%3Droundtrip-online-cars"
+        "title": "corp-ostrovok-online-cars",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/75/change/?_changelist_filters=q%3Dcorp-ostrovok-online-cars"
       },
       {
         "title": "ratehawk-online-cars",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/76/change/?_changelist_filters=q%3Dratehawk-online-cars"
       },
       {
-        "title": "corp-ostrovok-online-cars",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/75/change/?_changelist_filters=q%3Dcorp-ostrovok-online-cars"
-      },
-      {
-        "title": "ratehawk-railway-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/71/change/?_changelist_filters=q%3Dratehawk-railway-support"
-      },
-      {
-        "title": "b2b-ostrovok-railway-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/70/change/?_changelist_filters=q%3Db2b-ostrovok-railway-support"
-      },
-      {
-        "title": "roundtrip-railway-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/72/change/?_changelist_filters=q%3Droundtrip-railway-support"
-      },
-      {
-        "title": "railway-online-tpp",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/110/change/?_changelist_filters=q%3Drailway-online-tpp"
+        "title": "roundtrip-online-cars",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/77/change/?_changelist_filters=q%3Droundtrip-online-cars"
       }
     ]
   },
   {
-    "group": "Direct invoice Specialist",
+    "group": "Complaints",
     "links": [
       {
-        "title": "ostrovok-direct-sales",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/133/change/?_changelist_filters=q%3Ddirect"
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru"
+      },
+      {
+        "title": "etg-extraservice",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%2B%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
+      },
+      {
+        "title": "etg-extraservice2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%2B%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice2"
+      },
+      {
+        "title": "etg-support-supplier",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-reservations",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations%2B"
+      },
+      {
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier%2B"
+      },
+      {
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-complaints",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/23/change/?_changelist_filters=q%3Dostrovok-complaints%2B"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation%2B%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-complaints-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/196/change/?_changelist_filters=q%3Dostrovok-complaints%2B"
+      },
+      {
+        "title": "etg-complaints",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/6/change/?_changelist_filters=q%3Detg-complaints%2B%26o%3D-3"
+      },
+      {
+        "title": "etg-complaints-extraservice",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/7/change/?_changelist_filters=q%3Detg-complaints-extraservice%26o%3D-3"
       }
     ]
   },
   {
-    "group": "FIT Manager",
+    "group": "Dispute Center Manager",
+    "links": [
+      {
+        "title": "etg-disputecenter",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/111/change/?_changelist_filters=q%3Detg-disputecenter%26o%3D-3"
+      }
+    ]
+  },
+  {
+    "group": "FIT & Group Manager",
     "links": [
       {
         "title": "ostrovok-partner-reservations-ru",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/57/change/?_changelist_filters=q%3Dostrovok-partner-reservations-ru"
       },
       {
+        "title": "ratehawk-reservations",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/56/change/?_changelist_filters=q%3Dratehawk-reservations"
+      },
+      {
         "title": "ostrovok-partner-groups-ru",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/81/change/?_changelist_filters=q%3D%2Bostrovok-partner-groups-ru"
-      },
-      {
-        "title": "ostrovok-corp-fit-reservations",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/58/change/?_changelist_filters=q%3Dostrovok-corp-fit-reservations"
-      },
-      {
-        "title": "ostrovok-corp-group-reservations",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/83/change/?_changelist_filters=q%3Dostrovok-corp-group-reservations"
-      },
-      {
-        "title": "roundtrip-fit",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/84/change/?_changelist_filters=q%3Droundtrip-fit"
-      },
-      {
-        "title": "roundtrip-group",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/85/change/?_changelist_filters=q%3Droundtrip-group"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/81/change/?_changelist_filters=q%3Dostrovok-partner-groups-ru"
       },
       {
         "title": "ratehawk-groups",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/82/change/?_changelist_filters=q%3Dratehawk-groups"
       },
       {
-        "title": "ratehawk-reservations",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/56/change/?_changelist_filters=q%3Dratehawk-reservations"
+        "title": "ostrovok-corp-fit-reservations",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/58/change/?_changelist_filters=q%3Dostrovok-corp-fit-reservations"
+      },
+      {
+        "title": "roundtrip-fit",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/84/change/?_changelist_filters=q%3Droundtrip-fit"
+      },
+      {
+        "title": "ostrovok-corp-group-reservations",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/83/change/?_changelist_filters=q%3Dostrovok-corp-group-reservations"
+      },
+      {
+        "title": "roundtrip-group",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/85/change/?_changelist_filters=q%3Droundtrip-group"
+      },
+      {
+        "title": "bridge-fit-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/187/change/?_changelist_filters=q%3Dbridge-fit-ru"
+      },
+      {
+        "title": "bridge-fit",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/186/change/?_changelist_filters=q%3Dbridge-fit"
+      },
+      {
+        "title": "bridge-group-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/189/change/?_changelist_filters=q%3Dbridge-group-ru"
+      },
+      {
+        "title": "bridge-group",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/188/change/?_changelist_filters=q%3Dbridge-group"
       }
     ]
   },
   {
-    "group": "Front Office (Russia)",
+    "group": "Front Office B2B",
     "links": [
       {
-        "title": "corp-ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/5/change/?_changelist_filters=q%3D%2Bcorp-ostrovok-support"
+        "title": "ostrovok-b2b",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/24/change/?_changelist_filters=q%3Dostrovok-b2b"
       },
       {
-        "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b"
       },
       {
-        "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
+        "title": "ostrovok-b2b-vip",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip"
       },
       {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ostrovok-b2b-support-cm",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/117/change/?_changelist_filters=q%3Dostrovok-b2b-support-cm"
       },
       {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ratehawk-emergency-support",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/128/change/?_changelist_filters=q%3Dratehawk-emergency-support"
       },
       {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ostrovok-b2b-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support"
+      },
+      {
+        "title": "ratehawk-reservations",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/56/change/?_changelist_filters=q%3Dratehawk-reservations"
+      },
+      {
+        "title": "ostrovok-b2b-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation"
+      },
+      {
+        "title": "ostrovok-b2b-support4",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/121/change/?_changelist_filters=q%3Dostrovok-b2b-support4"
+      },
+      {
+        "title": "etg-support-supplier",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"
+      },
+      {
+        "title": "emergency-b2b-ostrovok",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/203/change/?_changelist_filters=q%3Demergency-b2b-ostrovok"
+      },
+      {
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
+      },
+      {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru"
+      },
+      {
+        "title": "etg-support-supplier-cm",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/153/change/?_changelist_filters=q%3Detg-support-supplier-cm"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier"
+      },
+      {
+        "title": "etg-complaints-extraservice",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/7/change/?_changelist_filters=q%3Detg-complaints-extraservice"
+      },
+      {
+        "title": "ostrovok-complaints",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/23/change/?_changelist_filters=q%3Dostrovok-complaints"
+      },
+      {
+        "title": "ratehawk-global-support",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/101/change/?_changelist_filters=q%3Dratehawk-global-support"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
+        "title": "ratehawk-global-escalation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/99/change/?_changelist_filters=q%3Dratehawk-global-escalation"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
+        "title": "ratehawk-global-complaints",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/100/change/?_changelist_filters=q%3Dratehawk-global-complaints"
       },
       {
         "title": "ostrovok-reservations",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations"
       },
       {
-        "title": "ostrovok-b2b-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "ostrovok-b2b-vip",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3D%2Bostrovok-b2b-vip"
-      },
-      {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
-      },
-      {
-        "title": "ostrovok-b2b-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "title": "ratehawk2-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/124/change/?_changelist_filters=q%3Dratehawk2-b2b%26o%3D-3"
       }
     ]
   },
   {
-    "group": "Front Office (International)",
+    "group": "Front Office B2C",
     "links": [
       {
-        "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
-      },
-      {
-        "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
-      },
-      {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "roundtrip-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"
-      },
-      {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru"
       },
       {
         "title": "zenhotels-support",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"
       },
       {
-        "title": "ratehawk-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3D%2Bratehawk-b2b"
+        "title": "emergency-b2c-ostrovok",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/202/change/?_changelist_filters=q%3Demergency-b2c-ostrovok"
+      },
+      {
+        "title": "zenhotels-reservations",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
+        "title": "zenhotels-complaints",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/40/change/?_changelist_filters=q%3Dzenhotels-complaints"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice"
       },
       {
         "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier"
       },
       {
-        "title": "ratehawk2-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/43/change/?_changelist_filters=q%3Dratehawk2-b2b"
-      }
-    ]
-  },
-  {
-    "group": "Group Manager",
-    "links": [
-      {
-        "title": "ostrovok-partner-reservations-ru",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/57/change/?_changelist_filters=q%3Dostrovok-partner-reservations-ru"
+        "title": "ostrovok-reservations",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations"
       },
       {
-        "title": "ostrovok-partner-groups-ru",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/81/change/?_changelist_filters=q%3D%2Bostrovok-partner-groups-ru"
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier"
       },
       {
-        "title": "ostrovok-corp-fit-reservations",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/58/change/?_changelist_filters=q%3Dostrovok-corp-fit-reservations"
+        "title": "ostrovok-support-cm",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/157/change/?_changelist_filters=q%3Dostrovok-support-cm"
       },
       {
-        "title": "ostrovok-corp-group-reservations",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/83/change/?_changelist_filters=q%3Dostrovok-corp-group-reservations"
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation"
       },
       {
-        "title": "roundtrip-fit",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/84/change/?_changelist_filters=q%3Droundtrip-fit"
+        "title": "ostrovok-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
       },
       {
-        "title": "roundtrip-group",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/85/change/?_changelist_filters=q%3Droundtrip-group"
+        "title": "ostrovok-support2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
       },
       {
-        "title": "ratehawk-groups",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/82/change/?_changelist_filters=q%3Dratehawk-groups"
+        "title": "ostrovok-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
       },
       {
-        "title": "ratehawk-reservations",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/56/change/?_changelist_filters=q%3Dratehawk-reservations"
+        "title": "ostrovok-support-refund",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/130/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "ostrovok-complaints",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/23/change/?_changelist_filters=q%3Dostrovok-complaints"
       }
     ]
   },
@@ -375,7 +579,11 @@
     "links": [
       {
         "title": "ostrovok-moderation-team",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/136/change/?_changelist_filters=q%3D%2Bostrovok-moderation-team"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/136/change/?_changelist_filters=q%3Dostrovok-moderation-team"
+      },
+      {
+        "title": "etg-moderation-team",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/137/change/?_changelist_filters=q%3Detg-moderation-team"
       }
     ]
   },
@@ -383,70 +591,110 @@
     "group": "Hotel Precheck",
     "links": [
       {
-        "title": "etg-precheck-client-b2c",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/10/change/?_changelist_filters=q%3Detg-precheck-client-b2c"
+        "title": "ostrovok-precheck-extranet",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/207/change/?_changelist_filters=q%3Dostrovok-precheck-extranet"
       },
       {
-        "title": "etg-precheck-client-zen",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/11/change/?_changelist_filters=q%3Detg-precheck-client-zen"
+        "title": "etg-precheck-hotel-auto",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/15/change/?_changelist_filters=q%3Detg-precheck-hotel-auto"
+      },
+      {
+        "title": "ostrovok-precheck-hotel-auto",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/201/change/?_changelist_filters=q%3Dostrovok-precheck-hotel-auto"
       },
       {
         "title": "etg-precheck-hotel",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/14/change/?_changelist_filters=q%3Detg-precheck-hotel"
       },
       {
-        "title": "etg-precheck-roundtrip",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/19/change/?_changelist_filters=q%3D%2Betg-precheck-roundtrip"
+        "title": "ostrovok-precheck-hotel2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/200/change/?_changelist_filters=q%3Dostrovok-precheck-hotel2"
+      },
+      {
+        "title": "etg-precheck-hotel2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/16/change/?_changelist_filters=q%3Detg-precheck-hotel2"
+      },
+      {
+        "title": "ostrovok-precheck-hotel",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/199/change/?_changelist_filters=q%3Dostrovok-precheck-hotel"
       },
       {
         "title": "etg-precheck-supplier",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/20/change/?_changelist_filters=q%3Detg-precheck-supplier"
       },
       {
-        "title": "etg-precheck-corporate",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/12/change/?_changelist_filters=q%3D%2Betg-precheck-corporate"
-      },
-      {
-        "title": "etg-precheck-hotel2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/16/change/?_changelist_filters=q%3Detg-precheck-hotel"
+        "title": "ostrovok-precheck-internal",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/171/change/?_changelist_filters=q%3Dostrovok-precheck-internal"
       },
       {
         "title": "etg-precheck-partner-b2b",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/17/change/?_changelist_filters=q%3Detg-precheck-partner-b2b"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/17/change/?_changelist_filters=q%3Detg-precheck-partner-b2b"
+      },
+      {
+        "title": "ostrovok-precheck-provider",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/31/change/?_changelist_filters=q%3Dostrovok-precheck-provider"
       },
       {
         "title": "etg-precheck-partner-rh",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/18/change/?_changelist_filters=q%3Detg-precheck-partner-rh"
       },
       {
-        "title": "Group precheck",
-        "url": "https://crm-api.etg.team/admin/workboard/workboard/3/change/"
+        "title": "etg-precheck-partner-b2b",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/17/change/?_changelist_filters=q%3Detg-precheck-partner-b2b"
+      },
+      {
+        "title": "etg-precheck-client-b2c",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/10/change/?_changelist_filters=q%3Detg-precheck-client-b2c"
+      },
+      {
+        "title": "etg-precheck-corporate",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/12/change/?_changelist_filters=q%3Detg-precheck-corporate"
+      },
+      {
+        "title": "etg-precheck-client-zen",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/11/change/?_changelist_filters=q%3Detg-precheck-client-zen"
+      },
+      {
+        "title": "etg-precheck-client-b2c",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/10/change/?_changelist_filters=q%3Detg-precheck-client-b2c"
+      },
+      {
+        "title": "etg-precheck-roundtrip",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/19/change/?_changelist_filters=q%3Detg-precheck-roundtrip"
+      },
+      {
+        "title": "etg-precheck-corporate",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/12/change/?_changelist_filters=q%3Detg-precheck-corporate"
+      },
+      {
+        "title": "etg-precheck-internal",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/170/change/?_changelist_filters=q%3Detg-precheck-internal"
       }
     ]
   },
   {
-    "group": "Hotels Support Back Office",
+    "group": "Hotel Support Back Office",
     "links": [
       {
-        "title": "ostrovok-hotel-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/97/change/?_changelist_filters=q%3Dostrovok-hotel-support"
-      },
-      {
-        "title": "etg-hotel-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/102/change/?_changelist_filters=q%3Detg-hotel-support"
-      },
-      {
         "title": "ostrovok-hotel-support-back",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/104/change/?_changelist_filters=q%3Dostrovok-hotel-support"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/104/change/?_changelist_filters=q%3Dostrovok-hotel-support-back"
       },
       {
         "title": "etg-hotel-support-back",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/103/change/?_changelist_filters=q%3Detg-hotel-support"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/103/change/?_changelist_filters=q%3Detg-hotel-support-back"
+      },
+      {
+        "title": "ostrovok-hotel-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/97/change/?_changelist_filters=q%3Dostrovok-hotel-support"
+      },
+      {
+        "title": "etg-hotel-support",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/102/change/?_changelist_filters=q%3Detg-hotel-support"
       }
     ]
   },
   {
-    "group": "Hotels Support Front Office",
+    "group": "Hotel Support Front Office",
     "links": [
       {
         "title": "ostrovok-hotel-support",
@@ -459,279 +707,197 @@
     ]
   },
   {
-    "group": "Incident Resolution B2B (General, Highest)",
+    "group": "Incidents Resolution B2B",
     "links": [
       {
+        "title": "ostrovok-b2b-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support%2B"
+      },
+      {
         "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%26o%3D-3"
+      },
+      {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru%2B"
       },
       {
         "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%26o%3D-3"
       },
       {
-        "title": "zenhotels-reservations",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"
+        "title": "ostrovok-b2b-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support%2B"
       },
       {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "etg-support-supplier",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
       },
       {
-        "title": "roundtrip-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"
+        "title": "ostrovok-b2b-support4",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/121/change/?_changelist_filters=q%3Dostrovok-b2b-support%2B"
       },
       {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
       },
       {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ostrovok-b2b-vip",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip%2B"
+      },
+      {
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
+      },
+      {
+        "title": "etg-complaints",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/6/change/?_changelist_filters=q%3Detg-complaints%2B%26o%3D-3"
       },
       {
         "title": "ostrovok-reservations",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations%2B"
       },
       {
-        "title": "ostrovok-b2b-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b"
+        "title": "etg-complaints-extraservice",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/7/change/?_changelist_filters=q%3Detg-complaints-extraservice%26o%3D-3"
       },
       {
-        "title": "ostrovok-b2b-vip",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3D%2Bostrovok-b2b-vip"
-      },
-      {
-        "title": "ostrovok-b2b",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/24/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
-      },
-      {
-        "title": "ratehawk-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3D%2Bratehawk-b2b"
-      },
-      {
-        "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier%2B"
       }
     ]
   },
   {
-    "group": "Incident Resolution B2C",
+    "group": "Incidents Resolution B2C",
     "links": [
       {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru%2B"
+      },
+      {
         "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
       },
       {
         "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%26o%3D-3"
       },
       {
-        "title": "zenhotels-reservations",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
       },
       {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "etg-support-supplier",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
       },
       {
         "title": "ostrovok-reservations",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations"
-      },
-      {
-        "title": "ostrovok-b2b",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/24/change/?_changelist_filters=q%3Dostrovok-b2b"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations%2B"
       },
       {
         "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%26o%3D-3"
       },
       {
-        "title": "zenhotels-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"
+        "title": "ostrovok-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support%2B"
       },
       {
-        "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support%2B"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier%2B"
       }
     ]
   },
   {
-    "group": "Junior Additional Services",
+    "group": "Modification B2B",
     "links": [
       {
+        "title": "ostrovok-b2b-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b-support%2B"
+      },
+      {
         "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%2B%26o%3D-3"
+      },
+      {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru%2B"
       },
       {
         "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%2B%26o%3D-3"
       },
       {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
+        "title": "ostrovok-b2b-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b-support3%2B"
       },
       {
-        "title": "roundtrip-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"
+        "title": "etg-support-supplier",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%2B%26o%3D-3"
       },
       {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-b2b-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "ostrovok-b2b-vip",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3D%2Bostrovok-b2b-vip"
+        "title": "ostrovok-b2b-support4",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/121/change/?_changelist_filters=q%3Dostrovok-b2b-support4%2B"
       },
       {
         "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
-      },
-      {
-        "title": "ratehawk-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3D%2Bratehawk-b2b"
-      },
-      {
-        "title": "ostrovok-b2b-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
-      }
-    ]
-  },
-  {
-    "group": "Local support",
-    "links": [
-      {
-        "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
-      },
-      {
-        "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
-      },
-      {
-        "title": "zenhotels-reservations",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/41/change/?_changelist_filters=q%3Dzenhotels-reservations"
-      },
-      {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "roundtrip-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"
-      },
-      {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-b2b-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%2B%26o%3D-3"
       },
       {
         "title": "ostrovok-b2b-vip",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3D%2Bostrovok-b2b-vip"
-      },
-      {
-        "title": "zenhotels-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3Dostrovok-b2b-vip%2B"
       },
       {
         "title": "ratehawk-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3D%2Bratehawk-b2b"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%2B%26o%3D-3"
       },
       {
-        "title": "ostrovok-b2b-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b"
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice%2B"
       },
       {
-        "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation%26o%3D-3"
       },
       {
-        "title": "ratehawk2-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/43/change/?_changelist_filters=q%3Dratehawk2-b2b"
-      }
-    ]
-  },
-  {
-    "group": "Modification B2B (B2A, RH)",
-    "links": [
-      {
-        "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice2%2B"
       },
       {
-        "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
+        "title": "ostrovok-reservations",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/32/change/?_changelist_filters=q%3Dostrovok-reservations%2B"
       },
       {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "roundtrip-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/39/change/?_changelist_filters=q%3Droundtrip-support"
-      },
-      {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-b2b-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/26/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "ostrovok-b2b-vip",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/28/change/?_changelist_filters=q%3D%2Bostrovok-b2b-vip"
-      },
-      {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
-      },
-      {
-        "title": "ratehawk-b2b",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3D%2Bratehawk-b2b"
-      },
-      {
-        "title": "ostrovok-b2b-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/27/change/?_changelist_filters=q%3Dostrovok-b2b"
-      },
-      {
-        "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support-supplier%2B"
       }
     ]
   },
@@ -739,36 +905,106 @@
     "group": "Modification B2C",
     "links": [
       {
+        "title": "ostrovok-extraservice",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/197/change/?_changelist_filters=q%3Dostrovok-extraservice"
+      },
+      {
         "title": "etg-extraservice",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/8/change/?_changelist_filters=q%3Detg-extraservice%2B%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-extraservice2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/198/change/?_changelist_filters=q%3Dostrovok-extraservice"
       },
       {
         "title": "etg-extraservice2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice"
-      },
-      {
-        "title": "ostrovok-support3",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
-      },
-      {
-        "title": "ostrovok-support2",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/9/change/?_changelist_filters=q%3Detg-extraservice%2B%26o%3D-3"
       },
       {
         "title": "ostrovok-support",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/33/change/?_changelist_filters=q%3Dostrovok-support"
       },
       {
-        "title": "etg-support-supplier2",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier2"
-      },
-      {
-        "title": "zenhotels-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/42/change/?_changelist_filters=q%3Dzenhotels-support"
-      },
-      {
         "title": "etg-support-supplier",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3D%2Betg-support-supplier"
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/21/change/?_changelist_filters=q%3Detg-support-supplier%2B%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support2",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/34/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "etg-support-supplier2",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/22/change/?_changelist_filters=q%3Detg-support-supplier%2B%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support3",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/35/change/?_changelist_filters=q%3Dostrovok-support"
+      },
+      {
+        "title": "ratehawk-b2b",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/37/change/?_changelist_filters=q%3Dratehawk-b2b%2B%26o%3D-3"
+      },
+      {
+        "title": "bridge-accomodation-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/179/change/?_changelist_filters=q%3Dbridge-accomodation-ru"
+      },
+      {
+        "title": "bridge-accomodation",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/178/change/?_changelist_filters=q%3Dbridge-accomodation%26o%3D-3"
+      },
+      {
+        "title": "ostrovok-support-supplier",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/172/change/?_changelist_filters=q%3Dostrovok-support"
+      }
+    ]
+  },
+  {
+    "group": "Offline Transportation",
+    "links": [
+      {
+        "title": "ostrovok-transfers-offline",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/92/change/?_changelist_filters=q%3Dostrovok-transfers-offline%2B"
+      },
+      {
+        "title": "bridge-transfers-offline",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/192/change/?_changelist_filters=q%3Dbridge-transfers-offline"
+      },
+      {
+        "title": "ostrovok-train",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/61/change/?_changelist_filters=q%3Dostrovok-train%2B"
+      },
+      {
+        "title": "ratehawk-transfers-offline",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/93/change/?_changelist_filters=q%3Dratehawk-transfers-offline"
+      },
+      {
+        "title": "ostrovok-corp-transfers-offline",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/94/change/?_changelist_filters=q%3Dostrovok-corp-transfers-offline%2B"
+      },
+      {
+        "title": "roundtrip-transfers-offline",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/59/change/?_changelist_filters=q%3Droundtrip-transfers-offline"
+      },
+      {
+        "title": "bridge-transfers-offline-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/193/change/?_changelist_filters=q%3Dbridge-transfers-offline-ru"
+      },
+      {
+        "title": "ratehawk-train",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/60/change/?_changelist_filters=q%3Dratehawk-train"
+      },
+      {
+        "title": "roundtrip-railway-offline",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/62/change/?_changelist_filters=q%3Droundtrip-railway-offline"
+      }
+    ]
+  },
+  {
+    "group": "Partner Dispute Manager",
+    "links": [
+      {
+        "title": "etg-partner-disputes",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/88/change/?_changelist_filters=q%3Detg-partner-disputes%26o%3D-3"
       }
     ]
   },
@@ -776,32 +1012,16 @@
     "group": "Railway Support",
     "links": [
       {
-        "title": "b2b-ostrovok-online-cars",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/73/change/?_changelist_filters=q%3Db2b-ostrovok-online-cars"
-      },
-      {
-        "title": "cars-online-tpp",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/74/change/?_changelist_filters=q%3Dcars-online-tpp"
-      },
-      {
-        "title": "roundtrip-online-cars",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/77/change/?_changelist_filters=q%3Droundtrip-online-cars"
-      },
-      {
-        "title": "ratehawk-online-cars",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/76/change/?_changelist_filters=q%3Dratehawk-online-cars"
-      },
-      {
-        "title": "corp-ostrovok-online-cars",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/75/change/?_changelist_filters=q%3Dcorp-ostrovok-online-cars"
+        "title": "b2b-ostrovok-railway-support",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/70/change/?_changelist_filters=q%3Db2b-ostrovok-railway-support"
       },
       {
         "title": "ratehawk-railway-support",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/71/change/?_changelist_filters=q%3Dratehawk-railway-support"
       },
       {
-        "title": "b2b-ostrovok-railway-support",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/70/change/?_changelist_filters=q%3Db2b-ostrovok-railway-support"
+        "title": "railway-tpp-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/126/change/?_changelist_filters=q%3Drailway-tpp-ru"
       },
       {
         "title": "roundtrip-railway-support",
@@ -814,36 +1034,90 @@
     ]
   },
   {
-    "group": "Reservations Specialist (No-Show Team)",
+    "group": "Reconcile Specialist",
     "links": [
       {
-        "title": "ostrovok-noshowteam",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/138/change/?_changelist_filters=q%3Dostrovok-noshowteam"
+        "title": "ostrovok-reconcile",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/163/change/?_changelist_filters=q%3Dostrovok-reconcile"
+      },
+      {
+        "title": "ops-reconcile",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/109/change/?_changelist_filters=q%3Dops-reconcile%26o%3D-3"
       }
     ]
   },
   {
-    "group": "Transfer Support",
+    "group": "Refund Claims Manager",
     "links": [
       {
-        "title": "transfer-online-tpp",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/69/change/?_changelist_filters=q%3Dtransfer-online-tpp"
+        "title": "ostrovok-res-claims",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/173/change/?_changelist_filters=q%3Dostrovok-res-claims"
       },
       {
-        "title": "b2b-ostrovok-transfer",
-        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/63/change/?_changelist_filters=q%3Db2b-ostrovok-transfer"
+        "title": "res-claims",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/87/change/?_changelist_filters=q%3Dres-claims%26o%3D-3"
+      }
+    ]
+  },
+  {
+    "group": "Reservations Specialist",
+    "links": [
+      {
+        "title": "ostrovok-noshowteam",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/138/change/?_changelist_filters=q%3Dostrovok-noshowteam"
       },
       {
-        "title": "ratehawk-transfer",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/67/change/?_changelist_filters=q%3Dratehawk-transfer"
+        "title": "etg-noshowteam",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/139/change/?_changelist_filters=q%3Detg-noshowteam"
+      }
+    ]
+  },
+  {
+    "group": "Transfers",
+    "links": [
+      {
+        "title": "bridge-transfer-ru",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/183/change/?_changelist_filters=q%3Dbridge-transfer-ru"
       },
       {
-        "title": "roundtrip-transfers-support",
-        "url": "https://crm-api.etg.team/admin/mail/mailchannel/68/change/?_changelist_filters=q%3Droundtrip-transfers-support"
+        "title": "bridge-transfer",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/182/change/?_changelist_filters=q%3Dbridge-transfer%26o%3D-3"
       },
       {
         "title": "transfers-tpp-ru",
         "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/125/change/?_changelist_filters=q%3Dtransfers-tpp-ru"
+      },
+      {
+        "title": "b2c-zenhotels-online-transfers",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/127/change/?_changelist_filters=q%3Db2c-zenhotels-online-transfers%26o%3D-3"
+      },
+      {
+        "title": "corp-ostrovok-transfers",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/66/change/?_changelist_filters=q%3Dcorp-ostrovok-transfers"
+      },
+      {
+        "title": "transfer-online-tpp",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/69/change/?_changelist_filters=q%3Dtransfer-online-tpp%26o%3D-3"
+      },
+      {
+        "title": "b2c-transfer-online-tpp",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/65/change/?_changelist_filters=q%3Db2c-transfer-online-tpp"
+      },
+      {
+        "title": "roundtrip-transfers-support",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/68/change/?_changelist_filters=q%3Droundtrip-transfers-support%26o%3D-3"
+      },
+      {
+        "title": "b2c-ostrovok-online-transfer",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/64/change/?_changelist_filters=q%3Db2c-ostrovok-online-transfer"
+      },
+      {
+        "title": "ratehawk-transfer",
+        "url": "https://crm-api.etg.team/admin/mail/mailchannel/67/change/?_changelist_filters=q%3Dratehawk-transfer%26o%3D-3"
+      },
+      {
+        "title": "b2b-ostrovok-transfer",
+        "url": "https://crm-api.ostrovok.in/admin/mail/mailchannel/63/change/?_changelist_filters=q%3Db2b-ostrovok-transfer"
       }
     ]
   }
