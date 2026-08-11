@@ -669,6 +669,10 @@
       {
         "title": "etg-precheck-internal",
         "url": "https://crm-api.etg.team/admin/mail/mailchannel/170/change/?_changelist_filters=q%3Detg-precheck-internal"
+      },
+      {
+        "title": "Group precheck WORKBOARD",
+        "url": "https://crm-api.etg.team/admin/workboard/workboard/3/change/"
       }
     ]
   },
